@@ -32,10 +32,6 @@ A Full-stack web developer building production-grade web apps across the JavaScr
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-## 📫 Reach me
-
-- Email: [adebowaleademuyiwa12@gmail.com](mailto:adebowaleademuyiwa12@gmail.com)
-- LinkedIn: [My-handle](https://www.linkedin.com/in/adebowale-ademuyiwa-505b56323/)
 
 <!--
 **Tur-nar/Tur-nar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
