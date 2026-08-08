@@ -38,8 +38,8 @@ A Full-stack web developer building production-grade web apps across the JavaScr
 
 ## 📫 Reach me
 
-- Email: [your.email@example.com](mailto:adebowaleademuyiwa12@gmail.com)
-- LinkedIn: [linkedin.com/in/your-handle](https://www.linkedin.com/in/adebowale-ademuyiwa-505b56323/)
+- Email: [adebowaleademuyiwa12@gmail.com](mailto:adebowaleademuyiwa12@gmail.com)
+- LinkedIn: [My-handle](https://www.linkedin.com/in/adebowale-ademuyiwa-505b56323/)
 
 <!--
 **Tur-nar/Tur-nar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
