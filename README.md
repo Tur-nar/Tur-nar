@@ -2,10 +2,6 @@
 
 A Full-stack web developer building production-grade web apps across the JavaScript/TypeScript, NestJS, Next.js, and Laravel stack.
 
-## 🔭 Currently building
-
-**Habit & Goal Tracker** — a production-grade habit and goal tracking app (Next.js 15, NestJS, PostgreSQL, Prisma, Redis, BullMQ, Socket.io), built as my primary NestJS learning project and on track for a commercial launch.
-
 ## 🛠️ Tech stack
 
 **Frontend**
