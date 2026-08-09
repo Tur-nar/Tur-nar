@@ -1,6 +1,6 @@
 <img width="2854" height="1846" alt="turner" src="https://github.com/user-attachments/assets/f2f98f5e-c662-4abe-8d0b-4c41ef25ccdb" />
 
-A Full-stack web developer building production-grade web apps across the JavaScript/TypeScript, NestJS, Next.js, and Laravel stack.
+A Full-stack web developer building production-grade web apps across the JavaScript/TypeScript, NestJS, Next.js, and Laravel stack - architecting everything from RESTful APIs and WebSocket-driven real-time features to complex multi-module enterprise platforms.
 
 ## 🛠️ Tech stack
 
