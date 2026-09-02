@@ -36,6 +36,9 @@ A Full-stack web developer building production-grade web apps across the JavaScr
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+---
+
+https://camo.githubusercontent.com/7583d55f362f005f5daa2140960d56c6d121b913fd2a9e3ee92559358cbf0eb6/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d686563746f722d6d756e6163686926636f6c6f723d726564
 
 <!--
 **Tur-nar/Tur-nar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
