@@ -2,7 +2,6 @@
 
 A Full-stack web developer building production-grade web apps across the JavaScript/TypeScript, NestJS, Next.js, and Laravel stack - architecting everything from RESTful APIs and WebSocket-driven real-time features to complex multi-module enterprise platforms.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Tur-nar&color=blueviolet&style=for-the-badge)
 
 ## 🛠️ Tech stack
 
